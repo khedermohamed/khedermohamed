@@ -2,7 +2,7 @@
 
 <!-- Responsive Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Khader%20Mohamed&fontSize=50&fontColor=fff&desc=C%23%20.NET%20Backend%20Developer&descAlignY=75&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Kheder%20Mohamed&fontSize=50&fontColor=fff&desc=C%23%20.NET%20Backend%20Developer&descAlignY=75&descAlign=50" width="100%"/>
 </div>
 
 <!-- Responsive Typing Animation -->
